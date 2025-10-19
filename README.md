@@ -1,4 +1,4 @@
-# Firebase Studio
+# Firebase Studio craft mantra
 
 This is a NextJS starter in Firebase Studio.
 
