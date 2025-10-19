@@ -1,0 +1,93 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "eco-bag-1",
+      "name": "Eco-Friendly Bags",
+      "description": "Customizable jute and cotton bags, perfect for sustainable corporate gifting.",
+      "price": "Inquire for custom pricing",
+      "imageUrls": [
+        "https://i.postimg.cc/fLCbh9LT/IMG-7026.jpg",
+        "https://i.postimg.cc/3w6s0rcc/IMG-7027.jpg",
+        "https://i.postimg.cc/VLQbBjtf/IMG-7029.jpg",
+        "https://i.postimg.cc/q7ksc290/IMG-7030.jpg",
+        "https://i.postimg.cc/FKWT7P7H/IMG-7028.jpg"
+      ],
+      "imageHint": "tote bag",
+      "category": "Eco Bags"
+    },
+    {
+      "id": "memento-1",
+      "name": "Gifts & Mementos",
+      "description": "Unique wooden and terracotta mementos, celebrating local artistry and culture.",
+      "price": "Inquire for bulk orders",
+      "imageUrls": [
+        "https://i.postimg.cc/R0yr81wS/00ec621e-06fa-4055-a174-eea37932f3fb.jpg",
+        "https://i.postimg.cc/PJngft66/2a4ab466-0427-4c15-83da-d480059ae0ca.jpg",
+        "https://i.postimg.cc/J0Cf71Tj/cb9af697-42b5-4828-b80b-ec33015e7610.jpg",
+        "https://i.postimg.cc/kGP0Mnjx/f1a0cd64-21ca-41cd-8512-1acd87f1f5b6.jpg",
+        "https://i.postimg.cc/Kjh6cZ9H/fced2840-72b0-4e95-856e-97f7e03d8daa.jpg"
+      ],
+      "imageHint": "wood carving",
+      "category": "Mementos"
+    },
+    {
+      "id": "accessories-1",
+      "name": "Accessories & Stationary",
+      "description": "Conference kits, cloth banners, T-shirts, and uniforms, often produced in bulk for clients.",
+      "price": "Inquire for custom pricing",
+      "imageUrls": [
+        "https://i.postimg.cc/5ypxQYFW/0c397640-340f-4cdf-b862-d80a67490385.jpg",
+        "https://i.postimg.cc/zXXDZj9D/229000d5-5b37-48a6-804e-cf5f5655fbc0.jpg",
+        "https://i.postimg.cc/QxxNGbvf/889c4eba-eaff-45ea-9a0c-e7629f8bb234.jpg",
+        "https://i.postimg.cc/6556J0D9/b69e703a-394b-433d-b4c8-4b27bde65317.jpg",
+        "https://i.postimg.cc/CLLMTN9J/ffca69f2-2e9b-4758-b097-2d85a4d0a5d1.jpg"
+      ],
+      "imageHint": "conference kit",
+      "category": "Accessories"
+    },
+    {
+      "id": "decor-1",
+      "name": "Home & Decor",
+      "description": "Eco-conscious home decor and earthen cookware made from natural materials.",
+      "price": "Varies by item",
+      "imageUrls": [
+        "https://i.postimg.cc/kGqry1Fv/098af7f8-9c8c-45d1-925c-340f0fd0c44f.jpg",
+        "https://i.postimg.cc/gjm9KSqv/604caddb-0e6b-42b2-bfc8-1d191d38375f.jpg",
+        "https://i.postimg.cc/PJTGM3zz/e4ce6917-e798-4dfa-8cd0-4dc2ff8f9eda.jpg",
+        "https://i.postimg.cc/FzNtxWgx/ffbe57f4-8ede-46ed-8f74-4baa3e9d8b7b.jpg",
+        "https://i.postimg.cc/85hQMQW5/IMG-7430.jpg"
+      ],
+      "imageHint": "home decor",
+      "category": "Decor"
+    },
+    {
+      "id": "tshirt-1",
+      "name": "Apparel",
+      "description": "Printed T-shirts and custom apparel for events, teams, and organizations.",
+      "price": "Inquire for bulk orders",
+      "imageUrls": [
+        "https://i.postimg.cc/KYzkQbDV/34160395-ec74-4adf-a7e8-989eb3ccf086.jpg",
+        "https://i.postimg.cc/MptfyHVQ/a52175d8-8b4e-4c14-9a3c-af8c4d680bf6.jpg",
+        "https://i.postimg.cc/5t0YpJS7/d4425b3a-8e11-4491-8add-d35b122692ae.jpg"
+      ],
+      "imageHint": "t-shirt",
+      "category": "Apparel"
+    },
+    {
+      "id": "kit-1",
+      "name": "Souvenirs & Handicrafts",
+      "description": "Curated eco-friendly kits and handicrafts representing local culture.",
+      "price": "Inquire for custom kits",
+      "imageUrls": [
+        "https://i.postimg.cc/kGqry1Fv/098af7f8-9c8c-45d1-925c-340f0fd0c44f.jpg",
+        "https://i.postimg.cc/PJTGM3zz/e4ce6917-e798-4dfa-8cd0-4dc2ff8f9eda.jpg",
+        "https://i.postimg.cc/dtdk3n5G/79f3672a-285f-4611-a5fe-185b9f718a18.jpg",
+        "https://i.postimg.cc/DwTWXsNW/a11e8adf-7936-45dd-b9cd-c328f1a50813.jpg",
+        "https://i.postimg.cc/DfR47RPy/aaae7dad-94c1-458e-82fb-04cd637e0680.jpg"
+      ],
+      "imageHint": "souvenir",
+      "category": "Souvenirs"
+    }
+  ]
+}
